@@ -65,4 +65,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Steve BAKINDE - stevebakindi@gmail.com
 
-Lien du projet : [[https://github.com/votre-username/trash-smart](https://github.com/Steve-BK1/TRASH-MBOA.git)]
+Lien du projet : [https://github.com/Steve-BK1/TRASH-MBOA.git]
