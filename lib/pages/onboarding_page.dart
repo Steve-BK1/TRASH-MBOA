@@ -37,7 +37,7 @@ class OnboardingPage extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    'TRASH SMART',
+                    'TRASH MBOA',
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 24,
@@ -80,22 +80,22 @@ class OnboardingPage extends StatelessWidget {
                             ),
                           ),
                           const SizedBox(width: 20),
-                          Expanded(
+                          const Expanded(
                             child: Padding(
-                              padding: const EdgeInsets.all(15.0),
+                              padding: EdgeInsets.all(15.0),
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  const Text(
+                                  Text(
                                     'Ensemble pour une ville plus propre et plus intelligente',
                                     style: TextStyle(
                                       fontSize: 18,
                                       fontWeight: FontWeight.bold,
                                     ),
                                   ),
-                                  const SizedBox(height: 10),
-                                  const Text(
-                                    'EcoCollecte est la première plateforme web qui facilite la gestion quotidienne des déchets tout en récompensant les gestes écoresponsables.',
+                                  SizedBox(height: 10),
+                                  Text(
+                                    'TRASH MBOA est la première plateforme web qui facilite la gestion quotidienne des déchets tout en récompensant les gestes écoresponsables.',
                                     style: TextStyle(
                                       fontSize: 12,
                                       color: Colors.grey,
@@ -126,7 +126,7 @@ class OnboardingPage extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           const Text(
-                            'Pourquoi utiliser TrashClean ?',
+                            'Pourquoi utiliser Trash MBOA ?',
                             style: TextStyle(
                               fontSize: 18,
                               fontWeight: FontWeight.bold,
@@ -217,6 +217,11 @@ class OnboardingPage extends StatelessWidget {
         ],
       ),
     );
+  }
+
+  @override
+  String toStringShort() {
+
   }
 
   Widget _buildFeatureItem(String text) {

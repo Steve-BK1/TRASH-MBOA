@@ -65,7 +65,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                     ),
                     Text(
-                      'TRASH SMART',
+                      'TRASH MBOA',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 24,
@@ -99,7 +99,7 @@ class _LoginPageState extends State<LoginPage> {
                         const SizedBox(height: 20),
                         Align(
                           alignment: Alignment.centerLeft,
-                          child: Container(
+                          child: SizedBox(
                             width: 89,
                             height: 22,
                             child: const Text(
