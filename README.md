@@ -63,6 +63,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Contact
 
-Ghislain Bella - ghislainbella3@gmail.com
+Steve BAKINDE - stevebakindi@gmail.com
 
 Lien du projet : [https://github.com/votre-username/trash-smart](https://github.com/votre-username/trash-smart)
